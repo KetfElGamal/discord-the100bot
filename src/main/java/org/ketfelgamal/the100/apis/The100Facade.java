@@ -78,11 +78,5 @@ public class The100Facade {
         return builder.toString();
     }
 
-    public static void main(String[] args) throws IllegalAccessException, ParseException, IntrospectionException, IOException, InstantiationException, NamingException, InvocationTargetException {
-        The100Facade tester = new The100Facade();
-
-        //System.out.println(tester.getFormattedCurrentGamingSessions("1601"));
-    }
-
 
 }
