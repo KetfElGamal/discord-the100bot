@@ -16,7 +16,7 @@ import java.text.ParseException;
 import java.util.List;
 
 /**
- * Created by Waseem on 23-Aug-16.
+ * Created by KetfElGamal on 23-Aug-16.
  */
 public class The100Facade {
     private static final String BACKUP_TOKEN = "<YOUR_FALLBACK_TOKEN_HERE>";//
