@@ -16,9 +16,9 @@ To run using maven execute the following command:
 
 The commands are as follows:
 
-``@The100Bot sessions [TimeZone / ± Hours] ``   
+``@The100Bot sessions [TimeZone] ``   
 
-``@The100Bot session session_id [TimeZone / ± Hours] ``  
+``@The100Bot session session_id [TimeZone] ``  
 
 ``@The100Bot link session_id``
 
